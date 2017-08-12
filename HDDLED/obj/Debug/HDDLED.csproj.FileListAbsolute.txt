@@ -1,0 +1,11 @@
+C:\Users\cande\Documents\GitHub\Hard-Drive-LED\HDDLED\bin\Debug\HDD_Busy.ico
+C:\Users\cande\Documents\GitHub\Hard-Drive-LED\HDDLED\bin\Debug\HDD_Idle.ico
+C:\Users\cande\Documents\GitHub\Hard-Drive-LED\HDDLED\bin\Debug\HDDLED.exe.config
+C:\Users\cande\Documents\GitHub\Hard-Drive-LED\HDDLED\bin\Debug\HDDLED.exe
+C:\Users\cande\Documents\GitHub\Hard-Drive-LED\HDDLED\bin\Debug\HDDLED.pdb
+C:\Users\cande\Documents\GitHub\Hard-Drive-LED\HDDLED\obj\Debug\HDDLED.csprojResolveAssemblyReference.cache
+C:\Users\cande\Documents\GitHub\Hard-Drive-LED\HDDLED\obj\Debug\HDDLED.InvisibleForm.resources
+C:\Users\cande\Documents\GitHub\Hard-Drive-LED\HDDLED\obj\Debug\HDDLED.Properties.Resources.resources
+C:\Users\cande\Documents\GitHub\Hard-Drive-LED\HDDLED\obj\Debug\HDDLED.csproj.GenerateResource.Cache
+C:\Users\cande\Documents\GitHub\Hard-Drive-LED\HDDLED\obj\Debug\HDDLED.exe
+C:\Users\cande\Documents\GitHub\Hard-Drive-LED\HDDLED\obj\Debug\HDDLED.pdb

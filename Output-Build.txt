@@ -1,0 +1,4 @@
+﻿1>------ Rebuild All started: Project: HDDLED, Configuration: Debug Any CPU ------
+1>C:\Users\cande\Documents\GitHub\Hard-Drive-LED\HDDLED\InvisibleForm.cs(115,43,115,46): warning CS0168: The variable 'tbe' is declared but never used
+1>  HDDLED -> C:\Users\cande\Documents\GitHub\Hard-Drive-LED\HDDLED\bin\Debug\HDDLED.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
